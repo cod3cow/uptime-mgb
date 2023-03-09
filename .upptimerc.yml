@@ -1,12 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ASchmidt1024 # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
   - name: alnatura
     url: https://www.alnatura.ch/
   - name: nature
     url: https://nature.ch/
+  - name: kaimug
+    url: https://www.kaimug.ch/
+  - name: hitzberger
+    url: https://www.hitzberger.ch/
+  - name: buelach-sued
+    url: https://www.buelach-sued.ch/#
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,8 +21,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "Open-source uptime monitor and status page"
-  introMessage: Status page which uses **real-time** data
+  introTitle: "Uptime monitor and status page"
+  introMessage: Status page with **real-time** data
   navbar:
     - title: Status
       href: /
