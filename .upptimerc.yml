@@ -3,16 +3,47 @@ owner: ASchmidt1024 # Your GitHub organization or username, where this repositor
 repo: uptime # The name of this repository
 
 sites:
-  - name: alnatura
+  - name: alnatura.ch
     url: https://www.alnatura.ch/
-  - name: nature
+  - name: nature.ch
     url: https://nature.ch/
-  - name: kaimug
+  - name: kaimug.ch
     url: https://www.kaimug.ch/
-  - name: hitzberger
+  - name: hitzberger.ch
     url: https://www.hitzberger.ch/
-  - name: buelach-sued
-    url: https://www.buelach-sued.ch/#
+  - name: buelach-sued.ch
+    url: https://www.buelach-sued.ch/
+    
+  - name: zueriseecenter.ch
+    url: https://www.zueriseecenter.ch/
+  - name: migros-city.ch
+    url: https://www.migros-city.ch/
+  - name: neumarktaltstetten.ch
+    url: https://www.neumarktaltstetten.ch/
+  - name: stage-one.ch
+    url: https://www.stage-one.ch/
+  - name: orangergarten.ch
+    url: https://www.orangergarten.ch/
+  - name: parkimgruene.ch
+    url: https://www.parkimgruene.ch/
+  - name: betriebsrestaurants-migros.ch
+    url: https://www.betriebsrestaurants-migros.ch/
+  - name: miduca.ch
+    url: https://www.miduca.ch/
+  - name: m4music.ch
+    url: https://www.m4music.ch/
+  - name: migros-engagement.ch
+    url: https://www.migros-engagement.ch/
+  - name: sparx-space.ch
+    url: https://www.sparx-space.ch/
+  - name: migrosindustrie.ch
+    url: https://www.migrosindustrie.ch/
+  - name: maker-space.com
+    url: https://www.maker-space.com/
+  - name: logistiktransport.ch
+    url: http://www.logistiktransport.ch/
+  - name: eatery.ch
+    url: https://www.eatery.ch/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
