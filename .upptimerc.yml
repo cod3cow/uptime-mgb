@@ -13,7 +13,6 @@ sites:
     url: https://www.hitzberger.ch/
   - name: buelach-sued.ch
     url: https://www.buelach-sued.ch/
-    
   - name: zueriseecenter.ch
     url: https://www.zueriseecenter.ch/
   - name: migros-city.ch
