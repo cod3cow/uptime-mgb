@@ -4,18 +4,20 @@
     "url": "https://www.alnatura.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alnatura.ch.ico",
     "slug": "alnatura-ch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 777,
     "timeDay": 777,
     "timeWeek": 777,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 0
+    }
   },
   {
     "name": "nature.ch",
