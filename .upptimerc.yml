@@ -43,7 +43,10 @@ sites:
     url: http://www.logistiktransport.ch/
   - name: eatery.ch
     url: https://www.eatery.ch/
-    
+  - name: operations.migros.ch
+    url: https://operations.migros.ch/
+  - name: industrie.migros.ch
+    url: https://industrie.migros.ch/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
