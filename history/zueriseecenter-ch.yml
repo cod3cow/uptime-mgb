@@ -1,7 +1,7 @@
 url: https://www.zueriseecenter.ch/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2023-04-14T00:04:15.678Z
+status: down
+code: 502
+responseTime: 919
+lastUpdated: 2023-04-14T05:35:25.640Z
 startTime: Thu Mar 09 2023 11:44:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
