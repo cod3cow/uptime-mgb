@@ -1,7 +1,7 @@
 url: https://www.hitzberger.ch/
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2023-04-14T08:00:50.946Z
+status: down
+code: 504
+responseTime: 6229
+lastUpdated: 2023-04-14T08:21:19.469Z
 startTime: Thu Mar 09 2023 11:44:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
