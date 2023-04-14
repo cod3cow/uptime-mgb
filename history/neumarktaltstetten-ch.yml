@@ -1,7 +1,7 @@
 url: https://www.neumarktaltstetten.ch/
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2023-04-14T11:55:42.961Z
+status: down
+code: 504
+responseTime: 6031
+lastUpdated: 2023-04-14T12:04:17.944Z
 startTime: Thu Mar 09 2023 11:44:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
