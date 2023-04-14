@@ -1,7 +1,7 @@
 url: https://www.migros-city.ch/
-status: up
-code: 200
-responseTime: 885
-lastUpdated: 2023-04-14T08:56:10.188Z
+status: down
+code: 504
+responseTime: 5819
+lastUpdated: 2023-04-14T09:34:22.475Z
 startTime: Thu Mar 09 2023 11:44:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
