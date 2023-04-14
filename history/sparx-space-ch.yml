@@ -1,7 +1,7 @@
 url: https://www.sparx-space.ch/
-status: up
-code: 200
-responseTime: 446
-lastUpdated: 2023-04-14T12:41:56.609Z
+status: down
+code: 502
+responseTime: 1178
+lastUpdated: 2023-04-14T12:54:54.057Z
 startTime: Thu Mar 09 2023 11:44:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
