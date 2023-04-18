@@ -1,7 +1,7 @@
 url: https://www.parkimgruene.ch/
-status: up
-code: 200
-responseTime: 680
-lastUpdated: 2023-04-17T23:01:21.671Z
+status: down
+code: 504
+responseTime: 5821
+lastUpdated: 2023-04-18T07:01:10.188Z
 startTime: Thu Mar 09 2023 11:44:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
