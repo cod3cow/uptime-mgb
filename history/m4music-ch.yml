@@ -1,7 +1,7 @@
 url: https://www.m4music.ch/
-status: up
-code: 200
-responseTime: 1512
-lastUpdated: 2023-05-31T23:01:32.794Z
+status: down
+code: 503
+responseTime: 965
+lastUpdated: 2023-06-01T08:12:03.966Z
 startTime: Thu Mar 09 2023 11:44:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
