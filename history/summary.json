@@ -453,19 +453,19 @@
     "url": "https://www.migrosindustrie.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migrosindustrie.ch.ico",
     "slug": "migrosindustrie-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1616,
-    "timeDay": 3343,
-    "timeWeek": 1954,
-    "timeMonth": 1671,
-    "timeYear": 1616,
+    "time": 1617,
+    "timeDay": 2574,
+    "timeWeek": 1936,
+    "timeMonth": 1675,
+    "timeYear": 1617,
     "dailyMinutesDown": {
-      "2023-07-23": 0
+      "2023-07-23": 3
     }
   },
   {
