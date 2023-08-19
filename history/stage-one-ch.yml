@@ -1,7 +1,7 @@
 url: https://www.stage-one.ch/
-status: up
-code: 200
-responseTime: 716
-lastUpdated: 2023-08-19T13:43:11.266Z
+status: down
+code: 500
+responseTime: 913
+lastUpdated: 2023-08-19T14:46:17.983Z
 startTime: 2023-03-09T11:44:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
