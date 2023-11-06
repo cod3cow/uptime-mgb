@@ -1,7 +1,7 @@
 url: http://www.logistiktransport.ch/
-status: down
-code: 504
-responseTime: 6764
-lastUpdated: 2023-11-06T22:24:39.794Z
+status: up
+code: 200
+responseTime: 615
+lastUpdated: 2023-11-06T22:31:49.971Z
 startTime: 2023-03-09T11:44:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
