@@ -1,7 +1,7 @@
 url: https://www.betriebsrestaurants-migros.ch/
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2023-11-05T23:01:21.763Z
+status: down
+code: 504
+responseTime: 5908
+lastUpdated: 2023-11-06T22:30:31.002Z
 startTime: 2023-03-09T11:44:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
