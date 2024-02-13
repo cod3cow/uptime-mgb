@@ -1,7 +1,7 @@
 url: https://nature.ch/
-status: up
-code: 200
-responseTime: 1820
-lastUpdated: 2024-02-13T05:46:38.936Z
+status: down
+code: 500
+responseTime: 1227
+lastUpdated: 2024-02-13T07:26:25.083Z
 startTime: 2023-03-09T11:44:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
