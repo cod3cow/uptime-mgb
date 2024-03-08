@@ -1,7 +1,7 @@
 url: https://www.miduca.ch/
-status: up
-code: 200
-responseTime: 828
-lastUpdated: 2024-03-07T23:01:26.290Z
+status: down
+code: 503
+responseTime: 1115
+lastUpdated: 2024-03-08T10:05:41.929Z
 startTime: 2023-03-09T11:44:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
