@@ -1,7 +1,7 @@
 url: https://www.kaimug.ch/
-status: up
-code: 200
-responseTime: 1031
-lastUpdated: 2024-03-07T23:01:14.515Z
+status: down
+code: 503
+responseTime: 1125
+lastUpdated: 2024-03-08T10:05:05.722Z
 startTime: 2023-03-09T11:44:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
