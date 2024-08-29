@@ -332,19 +332,19 @@
     "url": "https://www.migros-engagement.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-engagement.ch.ico",
     "slug": "migros-engagement-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1683,
-    "timeDay": 1390,
-    "timeWeek": 1571,
-    "timeMonth": 1598,
-    "timeYear": 1707,
+    "time": 1684,
+    "timeDay": 1787,
+    "timeWeek": 1647,
+    "timeMonth": 1617,
+    "timeYear": 1708,
     "dailyMinutesDown": {
-      "2024-08-29": 1
+      "2024-08-29": 5
     }
   },
   {
@@ -406,7 +406,7 @@
     "timeMonth": 0,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2024-08-29": 647,
+      "2024-08-29": 652,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
