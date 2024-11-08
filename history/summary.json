@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrospro.ch.ico",
     "slug": "migrospro-ch",
     "status": "up",
-    "uptime": "80.95%",
+    "uptime": "80.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.93%",
-    "time": 880,
-    "timeDay": 685,
-    "timeWeek": 716,
-    "timeMonth": 810,
-    "timeYear": 880,
+    "uptimeYear": "80.66%",
+    "time": 879,
+    "timeDay": 586,
+    "timeWeek": 701,
+    "timeMonth": 800,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2024-11-07": 21,
+      "2024-11-08": 20,
+      "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -101,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
-    "time": 1267,
-    "timeDay": 899,
-    "timeWeek": 1030,
-    "timeMonth": 1155,
-    "timeYear": 1224,
+    "time": 1266,
+    "timeDay": 1004,
+    "timeWeek": 1060,
+    "timeMonth": 1157,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2024-03-12": 771,
       "2024-03-11": 1440,
@@ -127,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1771,
-    "timeDay": 1287,
-    "timeWeek": 1447,
-    "timeMonth": 2276,
-    "timeYear": 1781,
+    "time": 1772,
+    "timeDay": 1484,
+    "timeWeek": 1420,
+    "timeMonth": 2280,
+    "timeYear": 1767,
     "dailyMinutesDown": {
       "2024-02-13": 58,
       "2024-02-12": 22
@@ -149,10 +150,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1049,
-    "timeDay": 780,
-    "timeWeek": 852,
-    "timeMonth": 890,
-    "timeYear": 1035,
+    "timeDay": 704,
+    "timeWeek": 844,
+    "timeMonth": 888,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-09-08": 266,
       "2024-02-16": 87
@@ -169,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1187,
-    "timeDay": 757,
-    "timeWeek": 881,
-    "timeMonth": 894,
-    "timeYear": 1106,
+    "time": 1186,
+    "timeDay": 688,
+    "timeWeek": 875,
+    "timeMonth": 890,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2024-08-30": 22
     }
@@ -189,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 705,
-    "timeWeek": 753,
-    "timeMonth": 821,
-    "timeYear": 897,
+    "time": 932,
+    "timeDay": 710,
+    "timeWeek": 738,
+    "timeMonth": 817,
+    "timeYear": 882,
     "dailyMinutesDown": {}
   },
   {
@@ -208,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1014,
-    "timeDay": 720,
-    "timeWeek": 735,
-    "timeMonth": 1428,
-    "timeYear": 1038,
+    "timeDay": 734,
+    "timeWeek": 749,
+    "timeMonth": 1427,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2024-07-05": 68
     }
@@ -228,10 +229,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
-    "timeDay": 680,
-    "timeWeek": 732,
+    "timeDay": 697,
+    "timeWeek": 740,
     "timeMonth": 1094,
-    "timeYear": 927,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   },
   {
@@ -246,10 +247,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
-    "timeDay": 669,
-    "timeWeek": 699,
-    "timeMonth": 763,
-    "timeYear": 925,
+    "timeDay": 560,
+    "timeWeek": 693,
+    "timeMonth": 759,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -258,16 +259,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stage-one.ch.ico",
     "slug": "stage-one-ch",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1092,
-    "timeDay": 820,
-    "timeWeek": 816,
-    "timeMonth": 1183,
-    "timeYear": 1056,
+    "time": 1093,
+    "timeDay": 667,
+    "timeWeek": 803,
+    "timeMonth": 1176,
+    "timeYear": 1041,
     "dailyMinutesDown": {
       "2024-04-03": 69,
       "2024-02-04": 17
@@ -279,16 +280,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.orangergarten.ch.ico",
     "slug": "orangergarten-ch",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 860,
-    "timeDay": 638,
-    "timeWeek": 681,
-    "timeMonth": 728,
-    "timeYear": 861,
+    "timeDay": 740,
+    "timeWeek": 702,
+    "timeMonth": 730,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2024-03-12": 33
     }
@@ -305,10 +306,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
-    "timeDay": 667,
-    "timeWeek": 700,
+    "timeDay": 698,
+    "timeWeek": 720,
     "timeMonth": 786,
-    "timeYear": 856,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   },
   {
@@ -323,10 +324,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 861,
-    "timeDay": 665,
-    "timeWeek": 671,
-    "timeMonth": 726,
-    "timeYear": 794,
+    "timeDay": 574,
+    "timeWeek": 678,
+    "timeMonth": 723,
+    "timeYear": 779,
     "dailyMinutesDown": {}
   },
   {
@@ -340,11 +341,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 665,
-    "timeWeek": 674,
-    "timeMonth": 734,
-    "timeYear": 919,
+    "time": 1066,
+    "timeDay": 592,
+    "timeWeek": 671,
+    "timeMonth": 732,
+    "timeYear": 900,
     "dailyMinutesDown": {}
   },
   {
@@ -359,13 +360,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1315,
-    "timeDay": 877,
-    "timeWeek": 2843,
-    "timeMonth": 1515,
-    "timeYear": 1217,
-    "dailyMinutesDown": {
-      "2023-11-09": 141
-    }
+    "timeDay": 918,
+    "timeWeek": 2852,
+    "timeMonth": 1513,
+    "timeYear": 1214,
+    "dailyMinutesDown": {}
   },
   {
     "name": "migros-engagement.ch",
@@ -379,10 +378,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1685,
-    "timeDay": 1468,
-    "timeWeek": 1500,
-    "timeMonth": 1594,
-    "timeYear": 1663,
+    "timeDay": 1381,
+    "timeWeek": 1502,
+    "timeMonth": 1591,
+    "timeYear": 1659,
     "dailyMinutesDown": {
       "2024-08-29": 26
     }
@@ -399,13 +398,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 754,
-    "timeDay": 457,
-    "timeWeek": 474,
-    "timeMonth": 533,
-    "timeYear": 758,
-    "dailyMinutesDown": {
-      "2023-11-09": 127
-    }
+    "timeDay": 531,
+    "timeWeek": 487,
+    "timeMonth": 535,
+    "timeYear": 744,
+    "dailyMinutesDown": {}
   },
   {
     "name": "migrosindustrie.ch",
@@ -419,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1723,
-    "timeDay": 1575,
-    "timeWeek": 1426,
-    "timeMonth": 1585,
-    "timeYear": 1729,
+    "timeDay": 1626,
+    "timeWeek": 1446,
+    "timeMonth": 1594,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2024-03-20": 85
     }
@@ -433,18 +430,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maker-space.com.ico",
     "slug": "maker-space-com",
     "status": "down",
-    "uptime": "32.79%",
+    "uptime": "32.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1131,
+    "time": 1134,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-07": 21,
+      "2024-11-08": 21,
+      "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -807,8 +805,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   },
   {
@@ -822,14 +819,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 983,
-    "timeDay": 747,
+    "time": 982,
+    "timeDay": 624,
     "timeWeek": 726,
-    "timeMonth": 843,
-    "timeYear": 952,
+    "timeMonth": 834,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2024-04-17": 26,
-      "2023-11-09": 221
+      "2024-04-17": 26
     }
   },
   {
@@ -844,10 +840,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
-    "timeDay": 677,
-    "timeWeek": 711,
-    "timeMonth": 768,
-    "timeYear": 877,
+    "timeDay": 643,
+    "timeWeek": 716,
+    "timeMonth": 766,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   }
 ]
