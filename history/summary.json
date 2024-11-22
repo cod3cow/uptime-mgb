@@ -16,7 +16,7 @@
     "timeMonth": 830,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2024-11-22": 577,
+      "2024-11-22": 591,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -236,19 +236,19 @@
     "url": "https://www.migros-city.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-city.ch.ico",
     "slug": "migros-city-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 909,
-    "timeWeek": 843,
-    "timeMonth": 798,
+    "timeDay": 850,
+    "timeWeek": 831,
+    "timeMonth": 796,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2024-11-22": 0
+      "2024-11-22": 13
     }
   },
   {
@@ -446,7 +446,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maker-space.com.ico",
     "slug": "maker-space-com",
     "status": "down",
-    "uptime": "31.99%",
+    "uptime": "31.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -457,7 +457,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-22": 578,
+      "2024-11-22": 591,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
