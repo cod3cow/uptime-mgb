@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrospro.ch.ico",
     "slug": "migrospro-ch",
     "status": "up",
-    "uptime": "78.59%",
+    "uptime": "78.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -124,7 +124,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 1170,
     "timeDay": 1339,
     "timeWeek": 1023,
@@ -139,9 +139,9 @@
     "url": "https://nature.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/nature.ch.ico",
     "slug": "nature-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.41%",
     "uptimeYear": "99.70%",
@@ -151,6 +151,7 @@
     "timeMonth": 1900,
     "timeYear": 1801,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2025-02-25": 624,
       "2025-02-24": 950,
       "2025-02-08": 15
@@ -191,7 +192,7 @@
     "timeDay": 1469,
     "timeWeek": 886,
     "timeMonth": 870,
-    "timeYear": 983,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-08-30": 22
     }
@@ -300,12 +301,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 1094,
     "timeWeek": 745,
     "timeMonth": 749,
-    "timeYear": 836,
+    "timeYear": 835,
     "dailyMinutesDown": {}
   },
   {
@@ -350,7 +351,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.miduca.ch.ico",
     "slug": "miduca-ch",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -446,7 +447,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maker-space.com.ico",
     "slug": "maker-space-com",
     "status": "down",
-    "uptime": "27.21%",
+    "uptime": "27.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -457,7 +458,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 22,
+      "2025-03-12": 1090,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -838,7 +839,7 @@
     "time": 920,
     "timeDay": 1157,
     "timeWeek": 820,
-    "timeMonth": 844,
+    "timeMonth": 851,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2024-04-17": 26
