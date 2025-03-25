@@ -139,19 +139,19 @@
     "url": "https://nature.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/nature.ch.ico",
     "slug": "nature-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 1761,
-    "timeDay": 2160,
-    "timeWeek": 1944,
-    "timeMonth": 1881,
-    "timeYear": 1820,
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.69%",
+    "time": 1764,
+    "timeDay": 2285,
+    "timeWeek": 2002,
+    "timeMonth": 1898,
+    "timeYear": 1822,
     "dailyMinutesDown": {
-      "2025-03-25": 1,
+      "2025-03-25": 18,
       "2025-02-25": 624,
       "2025-02-24": 950,
       "2025-02-08": 15
@@ -184,17 +184,17 @@
     "slug": "hitzberger-ch",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1083,
     "timeDay": 1007,
     "timeWeek": 813,
     "timeMonth": 882,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2025-03-25": 1,
+      "2025-03-25": 19,
       "2024-08-30": 22
     }
   },
@@ -371,9 +371,9 @@
     "slug": "m4music-ch",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1137,
     "timeDay": 1179,
@@ -381,7 +381,7 @@
     "timeMonth": 927,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2025-03-25": 1
+      "2025-03-25": 19
     }
   },
   {
@@ -389,19 +389,19 @@
     "url": "https://www.migros-engagement.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-engagement.ch.ico",
     "slug": "migros-engagement-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1644,
-    "timeDay": 1891,
-    "timeWeek": 1552,
-    "timeMonth": 1621,
-    "timeYear": 1593,
+    "time": 1645,
+    "timeDay": 1965,
+    "timeWeek": 1613,
+    "timeMonth": 1636,
+    "timeYear": 1594,
     "dailyMinutesDown": {
-      "2025-03-25": 1,
+      "2025-03-25": 18,
       "2024-08-29": 26
     }
   },
@@ -412,9 +412,9 @@
     "slug": "sparx-space-ch",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 596,
@@ -422,7 +422,7 @@
     "timeMonth": 563,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-03-25": 1
+      "2025-03-25": 19
     }
   },
   {
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-25": 870,
+      "2025-03-25": 889,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
