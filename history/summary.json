@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrospro.ch.ico",
     "slug": "migrospro-ch",
     "status": "up",
-    "uptime": "79.18%",
+    "uptime": "79.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "73.94%",
     "time": 866,
-    "timeDay": 865,
-    "timeWeek": 793,
-    "timeMonth": 810,
+    "timeDay": 986,
+    "timeWeek": 796,
+    "timeMonth": 802,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2024-12-12": 620,
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1201,
-    "timeDay": 1241,
-    "timeWeek": 1096,
-    "timeMonth": 1486,
-    "timeYear": 1179,
+    "time": 1202,
+    "timeDay": 1416,
+    "timeWeek": 1107,
+    "timeMonth": 1505,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2024-12-10": 42
     }
@@ -141,15 +141,15 @@
     "slug": "nature-ch",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
-    "time": 1764,
-    "timeDay": 2239,
-    "timeWeek": 2018,
-    "timeMonth": 1882,
-    "timeYear": 1824,
+    "time": 1766,
+    "timeDay": 2212,
+    "timeWeek": 2009,
+    "timeMonth": 1880,
+    "timeYear": 1826,
     "dailyMinutesDown": {
       "2025-03-25": 18,
       "2025-02-25": 624,
@@ -168,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1004,
-    "timeDay": 946,
-    "timeWeek": 902,
-    "timeMonth": 897,
-    "timeYear": 1009,
+    "time": 979,
+    "timeDay": 1372,
+    "timeWeek": 940,
+    "timeMonth": 902,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2024-09-08": 266
     }
@@ -184,15 +184,15 @@
     "slug": "hitzberger-ch",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 1083,
-    "timeDay": 859,
-    "timeWeek": 834,
-    "timeMonth": 873,
-    "timeYear": 986,
+    "timeDay": 1135,
+    "timeWeek": 841,
+    "timeMonth": 874,
+    "timeYear": 987,
     "dailyMinutesDown": {
       "2025-03-25": 64,
       "2024-08-30": 22
@@ -210,10 +210,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 878,
-    "timeDay": 4086,
-    "timeWeek": 1310,
-    "timeMonth": 987,
-    "timeYear": 885,
+    "timeDay": 1018,
+    "timeWeek": 1294,
+    "timeMonth": 985,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   },
   {
@@ -228,10 +228,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1020,
-    "timeDay": 1143,
-    "timeWeek": 847,
-    "timeMonth": 793,
-    "timeYear": 1096,
+    "timeDay": 1012,
+    "timeWeek": 855,
+    "timeMonth": 795,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2024-07-05": 68
     }
@@ -248,10 +248,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 880,
-    "timeDay": 900,
-    "timeWeek": 836,
+    "timeDay": 1012,
+    "timeWeek": 797,
     "timeMonth": 802,
-    "timeYear": 853,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   },
   {
@@ -266,10 +266,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 879,
-    "timeDay": 889,
-    "timeWeek": 808,
-    "timeMonth": 798,
-    "timeYear": 867,
+    "timeDay": 1048,
+    "timeWeek": 796,
+    "timeMonth": 796,
+    "timeYear": 868,
     "dailyMinutesDown": {}
   },
   {
@@ -284,10 +284,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1039,
-    "timeDay": 1164,
-    "timeWeek": 960,
-    "timeMonth": 929,
-    "timeYear": 1038,
+    "timeDay": 1293,
+    "timeWeek": 984,
+    "timeMonth": 931,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-04-03": 69
     }
@@ -304,10 +304,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
-    "timeDay": 947,
-    "timeWeek": 765,
-    "timeMonth": 761,
-    "timeYear": 839,
+    "timeDay": 978,
+    "timeWeek": 767,
+    "timeMonth": 760,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   },
   {
@@ -322,10 +322,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 1028,
-    "timeWeek": 826,
+    "timeDay": 1123,
+    "timeWeek": 840,
     "timeMonth": 815,
-    "timeYear": 841,
+    "timeYear": 843,
     "dailyMinutesDown": {}
   },
   {
@@ -340,10 +340,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 773,
-    "timeDay": 1006,
-    "timeWeek": 776,
-    "timeMonth": 768,
-    "timeYear": 775,
+    "timeDay": 1026,
+    "timeWeek": 784,
+    "timeMonth": 765,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -357,11 +357,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 819,
-    "timeWeek": 744,
-    "timeMonth": 917,
-    "timeYear": 755,
+    "time": 863,
+    "timeDay": 1022,
+    "timeWeek": 754,
+    "timeMonth": 920,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -371,15 +371,15 @@
     "slug": "m4music-ch",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "95.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1135,
-    "timeDay": 1011,
-    "timeWeek": 1029,
-    "timeMonth": 926,
-    "timeYear": 1039,
+    "timeDay": 1156,
+    "timeWeek": 996,
+    "timeMonth": 914,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2025-03-25": 64
     }
@@ -391,15 +391,15 @@
     "slug": "migros-engagement-ch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1646,
-    "timeDay": 1932,
-    "timeWeek": 1669,
-    "timeMonth": 1629,
-    "timeYear": 1595,
+    "timeDay": 2129,
+    "timeWeek": 1676,
+    "timeMonth": 1628,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2025-03-25": 18,
       "2024-08-29": 26
@@ -412,15 +412,15 @@
     "slug": "sparx-space-ch",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "95.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 616,
-    "timeDay": 1275,
-    "timeWeek": 726,
-    "timeMonth": 607,
-    "timeYear": 628,
+    "timeDay": 691,
+    "timeWeek": 727,
+    "timeMonth": 603,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2025-03-25": 63
     }
@@ -437,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1670,
-    "timeDay": 1920,
-    "timeWeek": 1589,
-    "timeMonth": 1622,
-    "timeYear": 1637,
+    "timeDay": 2237,
+    "timeWeek": 1689,
+    "timeMonth": 1630,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2025-02-20": 251,
       "2024-11-30": 20
@@ -452,7 +452,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maker-space.com.ico",
     "slug": "maker-space-com",
     "status": "down",
-    "uptime": "26.70%",
+    "uptime": "26.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -463,7 +463,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 23,
+      "2025-03-27": 23,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -826,8 +827,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -842,10 +842,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 919,
-    "timeDay": 987,
-    "timeWeek": 868,
+    "timeDay": 1107,
+    "timeWeek": 867,
     "timeMonth": 867,
-    "timeYear": 934,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2024-04-17": 26
     }
@@ -861,11 +861,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 1001,
-    "timeWeek": 805,
-    "timeMonth": 770,
-    "timeYear": 798,
+    "time": 846,
+    "timeDay": 1124,
+    "timeWeek": 823,
+    "timeMonth": 769,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   }
 ]
