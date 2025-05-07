@@ -141,9 +141,9 @@
     "slug": "nature-ch",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1776,
     "timeDay": 1704,
@@ -151,7 +151,6 @@
     "timeMonth": 1808,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2025-05-07": 9,
       "2025-03-25": 18,
       "2025-02-25": 624,
       "2025-02-24": 950,
@@ -464,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 855,
+      "2025-05-07": 947,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -836,10 +835,10 @@
     "url": "http://www.logistiktransport.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.logistiktransport.ch.ico",
     "slug": "logistiktransport-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 913,
@@ -847,7 +846,9 @@
     "timeWeek": 767,
     "timeMonth": 880,
     "timeYear": 899,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 1
+    }
   },
   {
     "name": "eatery.ch",
