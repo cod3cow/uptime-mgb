@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 947,
+      "2025-05-07": 954,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -835,19 +835,19 @@
     "url": "http://www.logistiktransport.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.logistiktransport.ch.ico",
     "slug": "logistiktransport-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 730,
-    "timeWeek": 767,
-    "timeMonth": 880,
+    "time": 912,
+    "timeDay": 791,
+    "timeWeek": 778,
+    "timeMonth": 879,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2025-05-07": 1
+      "2025-05-07": 7
     }
   },
   {
