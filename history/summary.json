@@ -316,19 +316,19 @@
     "url": "https://www.parkimgruene.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkimgruene.ch.ico",
     "slug": "parkimgruene-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 2707,
-    "timeWeek": 1183,
-    "timeMonth": 951,
-    "timeYear": 866,
+    "time": 863,
+    "timeDay": 2955,
+    "timeWeek": 1435,
+    "timeMonth": 1027,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-06-24": 1
+      "2025-06-24": 13
     }
   },
   {
@@ -354,19 +354,19 @@
     "url": "https://www.miduca.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.miduca.ch.ico",
     "slug": "miduca-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 908,
-    "timeWeek": 723,
-    "timeMonth": 739,
-    "timeYear": 764,
+    "time": 754,
+    "timeDay": 1199,
+    "timeWeek": 841,
+    "timeMonth": 771,
+    "timeYear": 767,
     "dailyMinutesDown": {
-      "2025-06-24": 1
+      "2025-06-24": 13
     }
   },
   {
@@ -471,7 +471,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 858,
+      "2025-06-24": 871,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
