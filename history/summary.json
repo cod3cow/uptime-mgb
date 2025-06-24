@@ -316,18 +316,20 @@
     "url": "https://www.parkimgruene.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkimgruene.ch.ico",
     "slug": "parkimgruene-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 989,
-    "timeWeek": 719,
-    "timeMonth": 839,
-    "timeYear": 856,
-    "dailyMinutesDown": {}
+    "time": 858,
+    "timeDay": 2707,
+    "timeWeek": 1183,
+    "timeMonth": 951,
+    "timeYear": 866,
+    "dailyMinutesDown": {
+      "2025-06-24": 1
+    }
   },
   {
     "name": "betriebsrestaurants-migros.ch",
@@ -352,18 +354,20 @@
     "url": "https://www.miduca.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.miduca.ch.ico",
     "slug": "miduca-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 821,
-    "timeWeek": 684,
-    "timeMonth": 731,
-    "timeYear": 763,
-    "dailyMinutesDown": {}
+    "timeDay": 908,
+    "timeWeek": 723,
+    "timeMonth": 739,
+    "timeYear": 764,
+    "dailyMinutesDown": {
+      "2025-06-24": 1
+    }
   },
   {
     "name": "m4music.ch",
@@ -467,7 +471,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 764,
+      "2025-06-24": 858,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
