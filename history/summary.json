@@ -298,19 +298,19 @@
     "url": "https://www.orangergarten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.orangergarten.ch.ico",
     "slug": "orangergarten-ch",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 816,
-    "timeDay": 743,
-    "timeWeek": 711,
-    "timeMonth": 732,
+    "timeDay": 721,
+    "timeWeek": 704,
+    "timeMonth": 729,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-08-20": 1
+      "2025-08-20": 9
     }
   },
   {
@@ -318,19 +318,19 @@
     "url": "https://www.parkimgruene.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.parkimgruene.ch.ico",
     "slug": "parkimgruene-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 710,
-    "timeWeek": 720,
-    "timeMonth": 722,
+    "time": 850,
+    "timeDay": 724,
+    "timeWeek": 723,
+    "timeMonth": 723,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-08-20": 1
+      "2025-08-20": 9
     }
   },
   {
@@ -358,19 +358,19 @@
     "url": "https://www.miduca.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.miduca.ch.ico",
     "slug": "miduca-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 754,
-    "timeDay": 752,
-    "timeWeek": 691,
-    "timeMonth": 648,
+    "timeDay": 749,
+    "timeWeek": 697,
+    "timeMonth": 651,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-08-20": 1
+      "2025-08-20": 9
     }
   },
   {
@@ -475,7 +475,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-20": 575,
+      "2025-08-20": 584,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
