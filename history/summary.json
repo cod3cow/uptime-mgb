@@ -169,10 +169,10 @@
     "url": "https://www.kaimug.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kaimug.ch.ico",
     "slug": "kaimug-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 989,
@@ -181,6 +181,7 @@
     "timeMonth": 905,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2025-09-08": 2,
       "2025-08-22": 108
     }
   },
@@ -191,9 +192,9 @@
     "slug": "hitzberger-ch",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 1016,
     "timeDay": 754,
@@ -201,7 +202,7 @@
     "timeMonth": 962,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2025-09-08": 0,
+      "2025-09-08": 11,
       "2025-08-22": 108,
       "2025-03-25": 64
     }
@@ -493,7 +494,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-08": 925,
+      "2025-09-08": 936,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
