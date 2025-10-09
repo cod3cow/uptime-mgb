@@ -1,7 +1,7 @@
 url: https://www.alnatura.ch/
-status: up
-code: 200
-responseTime: 3186
-lastUpdated: 2025-10-09T04:24:34.206Z
+status: down
+code: 500
+responseTime: 3818
+lastUpdated: 2025-10-09T04:35:08.713Z
 startTime: 2023-03-09T11:44:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
