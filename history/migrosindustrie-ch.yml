@@ -1,7 +1,7 @@
 url: https://www.migrosindustrie.ch/
-status: up
-code: 200
-responseTime: 1644
-lastUpdated: 2025-10-22T20:47:35.150Z
+status: down
+code: 502
+responseTime: 767
+lastUpdated: 2025-10-22T22:53:57.596Z
 startTime: 2023-03-09T11:44:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
