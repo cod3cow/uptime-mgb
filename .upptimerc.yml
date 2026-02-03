@@ -1,5 +1,5 @@
 # Change these first
-owner: ASchmidt1024 # Your GitHub organization or username, where this repository lives
+owner: cod3cow # Your GitHub organization or username, where this repository lives
 repo: uptime-mgb # The name of this repository
 
 sites:
@@ -7,8 +7,6 @@ sites:
     url: https://www.migrospro.ch/
   - name: alnatura.ch
     url: https://www.alnatura.ch/
-  - name: nature.ch
-    url: https://nature.ch/
   - name: kaimug.ch
     url: https://www.kaimug.ch/
   - name: hitzberger.ch
@@ -39,8 +37,6 @@ sites:
     url: https://www.sparx-space.ch/
   - name: migrosindustrie.ch
     url: https://www.migrosindustrie.ch/
-  - name: maker-space.com
-    url: https://www.maker-space.com/
   - name: logistiktransport.ch
     url: http://www.logistiktransport.ch/
   - name: eatery.ch
