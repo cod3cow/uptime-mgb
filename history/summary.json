@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrospro.ch.ico",
     "slug": "migrospro-ch",
     "status": "up",
-    "uptime": "88.25%",
+    "uptime": "88.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -121,11 +121,11 @@
     "url": "https://www.buelach-sued.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.buelach-sued.ch.ico",
     "slug": "buelach-sued-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.77%",
     "time": 865,
     "timeDay": 1032,
@@ -157,7 +157,8 @@
       "2026-05-29": 7,
       "2026-06-02": 73,
       "2026-06-08": 88,
-      "2026-06-09": 41
+      "2026-06-09": 41,
+      "2026-06-29": 6
     }
   },
   {
@@ -165,17 +166,17 @@
     "url": "https://www.zueriseecenter.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zueriseecenter.ch.ico",
     "slug": "zueriseecenter-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.74%",
-    "time": 1011,
-    "timeDay": 1160,
-    "timeWeek": 1012,
-    "timeMonth": 896,
-    "timeYear": 950,
+    "time": 1016,
+    "timeDay": 2246,
+    "timeWeek": 1302,
+    "timeMonth": 963,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2025-08-22": 107,
       "2025-11-17": 487,
@@ -200,7 +201,8 @@
       "2026-05-29": 3,
       "2026-06-02": 69,
       "2026-06-08": 83,
-      "2026-06-09": 36
+      "2026-06-09": 36,
+      "2026-06-29": 6
     }
   },
   {
@@ -288,13 +290,13 @@
     "url": "https://www.stage-one.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stage-one.ch.ico",
     "slug": "stage-one-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
-    "time": 1580,
+    "time": 1582,
     "timeDay": 2849,
     "timeWeek": 2621,
     "timeMonth": 2393,
@@ -317,7 +319,8 @@
       "2026-05-19": 50,
       "2026-06-02": 54,
       "2026-06-08": 69,
-      "2026-06-09": 22
+      "2026-06-09": 22,
+      "2026-06-29": 1
     }
   },
   {
