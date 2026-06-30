@@ -121,16 +121,16 @@
     "url": "https://www.buelach-sued.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.buelach-sued.ch.ico",
     "slug": "buelach-sued-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "71.10%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "70.09%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.69%",
     "time": 864,
-    "timeDay": 826,
-    "timeWeek": 951,
-    "timeMonth": 927,
+    "timeDay": 828,
+    "timeWeek": 940,
+    "timeMonth": 925,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2025-08-22": 107,
@@ -159,7 +159,7 @@
       "2026-06-08": 88,
       "2026-06-09": 41,
       "2026-06-29": 28,
-      "2026-06-30": 388
+      "2026-06-30": 403
     }
   },
   {
@@ -167,16 +167,16 @@
     "url": "https://www.zueriseecenter.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zueriseecenter.ch.ico",
     "slug": "zueriseecenter-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "71.47%",
-    "uptimeWeek": "95.92%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "70.46%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.66%",
     "time": 1001,
-    "timeDay": 1292,
-    "timeWeek": 1150,
-    "timeMonth": 951,
+    "timeDay": 1183,
+    "timeWeek": 1107,
+    "timeMonth": 943,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2025-08-22": 107,
@@ -204,7 +204,7 @@
       "2026-06-08": 83,
       "2026-06-09": 36,
       "2026-06-29": 28,
-      "2026-06-30": 383
+      "2026-06-30": 398
     }
   },
   {
@@ -212,16 +212,16 @@
     "url": "https://www.migros-city.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-city.ch.ico",
     "slug": "migros-city-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "73.77%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "72.76%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "98.98%",
     "time": 923,
-    "timeDay": 746,
-    "timeWeek": 954,
-    "timeMonth": 936,
+    "timeDay": 750,
+    "timeWeek": 935,
+    "timeMonth": 931,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2025-08-22": 101,
@@ -247,7 +247,7 @@
       "2026-06-02": 64,
       "2026-06-08": 79,
       "2026-06-09": 32,
-      "2026-06-30": 377
+      "2026-06-30": 392
     }
   },
   {
@@ -255,16 +255,16 @@
     "url": "https://www.neumarktaltstetten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.neumarktaltstetten.ch.ico",
     "slug": "neumarktaltstetten-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "74.12%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "73.11%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.74%",
     "time": 890,
-    "timeDay": 747,
-    "timeWeek": 920,
-    "timeMonth": 912,
+    "timeDay": 771,
+    "timeWeek": 912,
+    "timeMonth": 910,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2025-08-22": 100,
@@ -286,7 +286,7 @@
       "2026-06-02": 59,
       "2026-06-08": 74,
       "2026-06-09": 27,
-      "2026-06-30": 373
+      "2026-06-30": 387
     }
   },
   {
@@ -294,17 +294,17 @@
     "url": "https://www.stage-one.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stage-one.ch.ico",
     "slug": "stage-one-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.80%",
-    "time": 1580,
-    "timeDay": 2224,
-    "timeWeek": 2582,
-    "timeMonth": 2378,
-    "timeYear": 1753,
+    "time": 1583,
+    "timeDay": 2163,
+    "timeWeek": 2522,
+    "timeMonth": 2368,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2025-08-22": 105,
       "2025-11-18": 23,
@@ -325,7 +325,7 @@
       "2026-06-08": 69,
       "2026-06-09": 22,
       "2026-06-29": 23,
-      "2026-06-30": 1
+      "2026-06-30": 15
     }
   },
   {
