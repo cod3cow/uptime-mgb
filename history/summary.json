@@ -121,13 +121,13 @@
     "url": "https://www.buelach-sued.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.buelach-sued.ch.ico",
     "slug": "buelach-sued-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "72.49%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.70%",
-    "time": 865,
+    "uptimeDay": "71.10%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.69%",
+    "time": 864,
     "timeDay": 826,
     "timeWeek": 951,
     "timeMonth": 927,
@@ -159,7 +159,7 @@
       "2026-06-08": 88,
       "2026-06-09": 41,
       "2026-06-29": 28,
-      "2026-06-30": 368
+      "2026-06-30": 388
     }
   },
   {
@@ -167,13 +167,13 @@
     "url": "https://www.zueriseecenter.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zueriseecenter.ch.ico",
     "slug": "zueriseecenter-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "72.52%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "71.47%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.66%",
-    "time": 1000,
+    "time": 1001,
     "timeDay": 1292,
     "timeWeek": 1150,
     "timeMonth": 951,
@@ -204,7 +204,7 @@
       "2026-06-08": 83,
       "2026-06-09": 36,
       "2026-06-29": 28,
-      "2026-06-30": 368
+      "2026-06-30": 383
     }
   },
   {
@@ -212,11 +212,11 @@
     "url": "https://www.migros-city.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-city.ch.ico",
     "slug": "migros-city-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "74.49%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "73.77%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "98.98%",
     "time": 923,
     "timeDay": 746,
@@ -247,7 +247,7 @@
       "2026-06-02": 64,
       "2026-06-08": 79,
       "2026-06-09": 32,
-      "2026-06-30": 367
+      "2026-06-30": 377
     }
   },
   {
@@ -255,13 +255,13 @@
     "url": "https://www.neumarktaltstetten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.neumarktaltstetten.ch.ico",
     "slug": "neumarktaltstetten-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "74.50%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.75%",
-    "time": 889,
+    "uptimeDay": "74.12%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.74%",
+    "time": 890,
     "timeDay": 747,
     "timeWeek": 920,
     "timeMonth": 912,
@@ -286,7 +286,7 @@
       "2026-06-02": 59,
       "2026-06-08": 74,
       "2026-06-09": 27,
-      "2026-06-30": 367
+      "2026-06-30": 373
     }
   },
   {
@@ -294,13 +294,13 @@
     "url": "https://www.stage-one.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stage-one.ch.ico",
     "slug": "stage-one-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.81%",
-    "time": 1579,
+    "uptimeYear": "99.80%",
+    "time": 1580,
     "timeDay": 2224,
     "timeWeek": 2582,
     "timeMonth": 2378,
@@ -324,7 +324,8 @@
       "2026-06-02": 54,
       "2026-06-08": 69,
       "2026-06-09": 22,
-      "2026-06-29": 23
+      "2026-06-29": 23,
+      "2026-06-30": 1
     }
   },
   {
