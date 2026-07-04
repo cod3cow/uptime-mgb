@@ -121,16 +121,16 @@
     "url": "https://www.buelach-sued.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.buelach-sued.ch.ico",
     "slug": "buelach-sued-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "91.55%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "99.67%",
     "time": 866,
-    "timeDay": 899,
-    "timeWeek": 942,
-    "timeMonth": 945,
+    "timeDay": 937,
+    "timeWeek": 948,
+    "timeMonth": 946,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2025-08-22": 107,
@@ -160,7 +160,7 @@
       "2026-06-09": 41,
       "2026-06-29": 28,
       "2026-06-30": 403,
-      "2026-07-04": 88
+      "2026-07-04": 122
     }
   },
   {
@@ -168,16 +168,16 @@
     "url": "https://www.zueriseecenter.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zueriseecenter.ch.ico",
     "slug": "zueriseecenter-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "94.58%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "94.67%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.64%",
-    "time": 995,
-    "timeDay": 922,
-    "timeWeek": 1072,
-    "timeMonth": 959,
+    "time": 996,
+    "timeDay": 958,
+    "timeWeek": 1069,
+    "timeMonth": 961,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2025-08-22": 107,
@@ -206,7 +206,7 @@
       "2026-06-09": 36,
       "2026-06-29": 28,
       "2026-06-30": 398,
-      "2026-07-04": 78
+      "2026-07-04": 112
     }
   },
   {
@@ -214,17 +214,17 @@
     "url": "https://www.migros-city.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-city.ch.ico",
     "slug": "migros-city-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "95.43%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "98.96%",
-    "time": 926,
-    "timeDay": 900,
-    "timeWeek": 893,
-    "timeMonth": 937,
-    "timeYear": 954,
+    "time": 927,
+    "timeDay": 983,
+    "timeWeek": 915,
+    "timeMonth": 943,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2025-08-22": 101,
       "2025-10-16": 676,
@@ -250,7 +250,7 @@
       "2026-06-08": 79,
       "2026-06-09": 32,
       "2026-06-30": 392,
-      "2026-07-04": 68
+      "2026-07-04": 102
     }
   },
   {
@@ -258,16 +258,16 @@
     "url": "https://www.neumarktaltstetten.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.neumarktaltstetten.ch.ico",
     "slug": "neumarktaltstetten-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "95.58%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "99.73%",
-    "time": 892,
-    "timeDay": 906,
-    "timeWeek": 902,
-    "timeMonth": 921,
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.72%",
+    "time": 893,
+    "timeDay": 915,
+    "timeWeek": 905,
+    "timeMonth": 922,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2025-08-22": 100,
@@ -290,7 +290,7 @@
       "2026-06-08": 74,
       "2026-06-09": 27,
       "2026-06-30": 387,
-      "2026-07-04": 58
+      "2026-07-04": 92
     }
   },
   {
@@ -298,17 +298,17 @@
     "url": "https://www.stage-one.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stage-one.ch.ico",
     "slug": "stage-one-ch",
-    "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.59%",
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.79%",
-    "time": 1599,
-    "timeDay": 2234,
-    "timeWeek": 2377,
-    "timeMonth": 2389,
-    "timeYear": 1769,
+    "time": 1601,
+    "timeDay": 2270,
+    "timeWeek": 2373,
+    "timeMonth": 2388,
+    "timeYear": 1771,
     "dailyMinutesDown": {
       "2025-08-22": 105,
       "2025-11-18": 23,
@@ -330,7 +330,7 @@
       "2026-06-09": 22,
       "2026-06-29": 23,
       "2026-06-30": 15,
-      "2026-07-04": 50
+      "2026-07-04": 84
     }
   },
   {
