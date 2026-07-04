@@ -122,15 +122,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.buelach-sued.ch.ico",
     "slug": "buelach-sued-ch",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.88%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.67%",
     "time": 866,
-    "timeDay": 1037,
-    "timeWeek": 959,
-    "timeMonth": 950,
+    "timeDay": 899,
+    "timeWeek": 942,
+    "timeMonth": 945,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2025-08-22": 107,
@@ -160,7 +160,7 @@
       "2026-06-09": 41,
       "2026-06-29": 28,
       "2026-06-30": 403,
-      "2026-07-04": 20
+      "2026-07-04": 88
     }
   },
   {
@@ -170,14 +170,14 @@
     "slug": "zueriseecenter-ch",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.65%",
-    "time": 1002,
-    "timeDay": 1053,
-    "timeWeek": 1096,
-    "timeMonth": 963,
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.64%",
+    "time": 995,
+    "timeDay": 922,
+    "timeWeek": 1072,
+    "timeMonth": 959,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2025-08-22": 107,
@@ -206,7 +206,7 @@
       "2026-06-09": 36,
       "2026-06-29": 28,
       "2026-06-30": 398,
-      "2026-07-04": 15
+      "2026-07-04": 78
     }
   },
   {
@@ -216,15 +216,15 @@
     "slug": "migros-city-ch",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.96%",
     "time": 926,
-    "timeDay": 1033,
-    "timeWeek": 906,
-    "timeMonth": 942,
-    "timeYear": 955,
+    "timeDay": 900,
+    "timeWeek": 893,
+    "timeMonth": 937,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-08-22": 101,
       "2025-10-16": 676,
@@ -250,7 +250,7 @@
       "2026-06-08": 79,
       "2026-06-09": 32,
       "2026-06-30": 392,
-      "2026-07-04": 10
+      "2026-07-04": 68
     }
   },
   {
@@ -260,15 +260,15 @@
     "slug": "neumarktaltstetten-ch",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.74%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.73%",
     "time": 892,
-    "timeDay": 1025,
-    "timeWeek": 914,
-    "timeMonth": 925,
-    "timeYear": 924,
+    "timeDay": 906,
+    "timeWeek": 902,
+    "timeMonth": 921,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2025-08-22": 100,
       "2025-11-17": 232,
@@ -290,7 +290,7 @@
       "2026-06-08": 74,
       "2026-06-09": 27,
       "2026-06-30": 387,
-      "2026-07-04": 6
+      "2026-07-04": 58
     }
   },
   {
@@ -300,14 +300,14 @@
     "slug": "stage-one-ch",
     "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.80%",
-    "time": 1595,
-    "timeDay": 2642,
-    "timeWeek": 2438,
-    "timeMonth": 2406,
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.79%",
+    "time": 1599,
+    "timeDay": 2234,
+    "timeWeek": 2377,
+    "timeMonth": 2389,
     "timeYear": 1769,
     "dailyMinutesDown": {
       "2025-08-22": 105,
@@ -330,7 +330,7 @@
       "2026-06-09": 22,
       "2026-06-29": 23,
       "2026-06-30": 15,
-      "2026-07-04": 1
+      "2026-07-04": 50
     }
   },
   {
@@ -575,7 +575,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eatery.ch.ico",
     "slug": "eatery-ch",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
