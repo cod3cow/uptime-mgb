@@ -309,13 +309,13 @@
     "url": "https://www.stage-one.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stage-one.ch.ico",
     "slug": "stage-one-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.76%",
-    "time": 1739,
+    "time": 1741,
     "timeDay": 2442,
     "timeWeek": 2421,
     "timeMonth": 3207,
@@ -343,7 +343,8 @@
       "2026-06-30": 15,
       "2026-07-04": 84,
       "2026-07-20": 53,
-      "2026-07-30": 75
+      "2026-07-30": 75,
+      "2026-08-11": 1
     }
   },
   {
