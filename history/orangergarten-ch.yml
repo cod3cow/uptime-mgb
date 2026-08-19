@@ -1,7 +1,7 @@
 url: https://www.orangergarten.ch/
-status: up
-code: 200
-responseTime: 683
-lastUpdated: 2026-08-18T23:03:25.716Z
+status: down
+code: 503
+responseTime: 963
+lastUpdated: 2026-08-19T16:02:57.796Z
 startTime: 2023-03-09T11:44:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
