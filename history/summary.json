@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrospro.ch.ico",
     "slug": "migrospro-ch",
     "status": "up",
-    "uptime": "88.89%",
+    "uptime": "88.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -73,7 +73,7 @@
     "uptimeYear": "97.54%",
     "time": 1036,
     "timeDay": 964,
-    "timeWeek": 1084,
+    "timeWeek": 1104,
     "timeMonth": 1540,
     "timeYear": 1068,
     "dailyMinutesDown": {
@@ -120,17 +120,17 @@
     "url": "https://www.buelach-sued.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.buelach-sued.ch.ico",
     "slug": "buelach-sued-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.66%",
-    "time": 897,
-    "timeDay": 1040,
-    "timeWeek": 890,
-    "timeMonth": 863,
-    "timeYear": 944,
+    "time": 929,
+    "timeDay": 10092,
+    "timeWeek": 3172,
+    "timeMonth": 1401,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-11-17": 231,
       "2025-12-08": 15,
@@ -161,7 +161,8 @@
       "2026-07-04": 122,
       "2026-07-20": 57,
       "2026-07-30": 76,
-      "2026-08-15": 21
+      "2026-08-15": 21,
+      "2026-08-26": 1
     }
   },
   {
@@ -353,9 +354,9 @@
     "uptimeYear": "97.73%",
     "time": 800,
     "timeDay": 822,
-    "timeWeek": 926,
+    "timeWeek": 936,
     "timeMonth": 1002,
-    "timeYear": 793,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2026-02-25": 796,
       "2026-02-24": 1440,
@@ -384,7 +385,7 @@
     "uptimeYear": "97.73%",
     "time": 795,
     "timeDay": 823,
-    "timeWeek": 910,
+    "timeWeek": 911,
     "timeMonth": 850,
     "timeYear": 774,
     "dailyMinutesDown": {
@@ -414,7 +415,7 @@
     "uptimeYear": "97.73%",
     "time": 860,
     "timeDay": 953,
-    "timeWeek": 981,
+    "timeWeek": 987,
     "timeMonth": 943,
     "timeYear": 862,
     "dailyMinutesDown": {
@@ -444,7 +445,7 @@
     "uptimeYear": "97.64%",
     "time": 763,
     "timeDay": 817,
-    "timeWeek": 912,
+    "timeWeek": 922,
     "timeMonth": 844,
     "timeYear": 769,
     "dailyMinutesDown": {
@@ -557,7 +558,7 @@
     "uptimeYear": "97.70%",
     "time": 1097,
     "timeDay": 1141,
-    "timeWeek": 1104,
+    "timeWeek": 1116,
     "timeMonth": 1023,
     "timeYear": 1098,
     "dailyMinutesDown": {
