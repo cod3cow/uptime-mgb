@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrospro.ch.ico",
     "slug": "migrospro-ch",
     "status": "up",
-    "uptime": "89.07%",
+    "uptime": "89.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.77%",
@@ -41,17 +41,17 @@
     "url": "https://www.alnatura.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alnatura.ch.ico",
     "slug": "alnatura-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 1112,
-    "timeDay": 945,
-    "timeWeek": 792,
-    "timeMonth": 777,
-    "timeYear": 1008,
+    "timeDay": 847,
+    "timeWeek": 787,
+    "timeMonth": 776,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-10-09": 23,
       "2025-11-18": 35,
@@ -63,7 +63,7 @@
       "2026-04-02": 96,
       "2026-04-04": 49,
       "2026-04-07": 28,
-      "2026-09-12": 0
+      "2026-09-12": 18
     }
   },
   {
