@@ -6,10 +6,10 @@
     "slug": "migrospro-ch",
     "status": "down",
     "uptime": "89.16%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "97.66%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "97.65%",
     "time": 994,
     "timeDay": 916,
     "timeWeek": 950,
@@ -35,7 +35,7 @@
       "2026-09-05": 16,
       "2026-09-09": 15,
       "2026-09-17": 15,
-      "2026-09-21": 2
+      "2026-09-21": 39
     }
   },
   {
@@ -74,10 +74,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kaimug.ch.ico",
     "slug": "kaimug-ch",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.74%",
+    "uptime": "98.61%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "97.70%",
     "time": 1020,
     "timeDay": 929,
@@ -103,7 +103,7 @@
       "2026-09-05": 15,
       "2026-09-09": 15,
       "2026-09-17": 15,
-      "2026-09-21": 2
+      "2026-09-21": 39
     }
   },
   {
@@ -360,10 +360,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.orangergarten.ch.ico",
     "slug": "orangergarten-ch",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.81%",
+    "uptime": "98.84%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "97.71%",
     "time": 806,
     "timeDay": 835,
@@ -387,7 +387,7 @@
       "2026-09-02": 19,
       "2026-09-04": 19,
       "2026-09-05": 15,
-      "2026-09-21": 2
+      "2026-09-21": 39
     }
   },
   {
@@ -397,10 +397,10 @@
     "slug": "parkimgruene-ch",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "97.71%",
     "time": 802,
     "timeDay": 858,
     "timeWeek": 846,
@@ -421,7 +421,7 @@
       "2026-09-01": 30,
       "2026-09-02": 19,
       "2026-09-04": 19,
-      "2026-09-21": 2
+      "2026-09-21": 38
     }
   },
   {
@@ -431,10 +431,10 @@
     "slug": "betriebsrestaurants-migros-ch",
     "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "97.71%",
     "time": 882,
     "timeDay": 892,
     "timeWeek": 949,
@@ -455,7 +455,7 @@
       "2026-09-01": 29,
       "2026-09-02": 18,
       "2026-09-04": 18,
-      "2026-09-21": 1
+      "2026-09-21": 38
     }
   },
   {
@@ -465,10 +465,10 @@
     "slug": "miduca-ch",
     "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "97.63%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "97.62%",
     "time": 770,
     "timeDay": 814,
     "timeWeek": 846,
@@ -490,7 +490,7 @@
       "2026-09-01": 29,
       "2026-09-02": 18,
       "2026-09-04": 18,
-      "2026-09-21": 1
+      "2026-09-21": 38
     }
   },
   {
@@ -580,11 +580,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.logistiktransport.ch.ico",
     "slug": "logistiktransport-ch",
     "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "97.69%",
+    "uptime": "99.30%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "97.68%",
     "time": 1071,
     "timeDay": 920,
     "timeWeek": 939,
@@ -606,7 +606,7 @@
       "2026-09-01": 29,
       "2026-09-02": 18,
       "2026-09-04": 18,
-      "2026-09-21": 1
+      "2026-09-21": 38
     }
   },
   {
