@@ -1,7 +1,7 @@
 url: https://www.buelach-sued.ch/
-status: up
-code: 200
-responseTime: 2473
-lastUpdated: 2026-09-30T05:21:40.291Z
+status: down
+code: 500
+responseTime: 384
+lastUpdated: 2026-09-30T13:56:43.766Z
 startTime: 2023-03-09T11:44:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
