@@ -539,18 +539,20 @@
     "url": "https://www.migros-engagement.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migros-engagement.ch.ico",
     "slug": "migros-engagement-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1813,
-    "timeDay": 2224,
-    "timeWeek": 2214,
-    "timeMonth": 1980,
-    "timeYear": 1867,
-    "dailyMinutesDown": {}
+    "time": 1812,
+    "timeDay": 1574,
+    "timeWeek": 2053,
+    "timeMonth": 1946,
+    "timeYear": 1864,
+    "dailyMinutesDown": {
+      "2026-10-20": 1
+    }
   },
   {
     "name": "sparx-space.ch",
